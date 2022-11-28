@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "rank": "#1",
+    "brand": "Intel",
+    "model": "Core i9-13900K",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i9-13900K averaged 28.8% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i9-13900K near the top of the comparison list. Avg. Multi Core Speed 4,215Pts Avg. Quad Core Speed 918Pts",
+    "url": "https://cpu.userbenchmark.com/Intel-Core-i9-13900K/Rating/4129"
+  },
+  {
+    "id": "2",
+    "rank": "#2",
+    "brand": "Intel",
+    "model": "Core i9-13900KF",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i9-13900KF averaged 28.7% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i9-13900KF near the top of the comparison list. Avg. Multi Core Speed 4,181Pts Avg. Quad Core Speed 917Pts",
+    "url": "https://cpu.userbenchmark.com/SpeedTest/1946957/13th-Gen-IntelR-CoreTM-i9-13900KF"
+  },
+  {
+    "id": "3",
+    "rank": "#3",
+    "brand": "Intel",
+    "model": "Core i7-13700KF",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i7-13700KF averaged 25.7% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i7-13700KF near the top of the comparison list. Avg. Multi Core Speed 3,085Pts Avg. Quad Core Speed 886Pts",
+    "url": "https://cpu.userbenchmark.com/SpeedTest/1925886/13th-Gen-IntelR-CoreTM-i7-13700KF"
+  },
+  {
+    "id": "4",
+    "rank": "#4",
+    "brand": "Intel",
+    "model": "Core i7-13700K",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i7-13700K averaged 25.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i7-13700K near the top of the comparison list. Avg. Multi Core Speed 3,112Pts Avg. Quad Core Speed 886Pts",
+    "url": "https://cpu.userbenchmark.com/Intel-Core-i7-13700K/Rating/4137"
+  },
+  {
+    "id": "5",
+    "rank": "#5",
+    "brand": "Intel",
+    "model": "Core i5-13600K",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i5-13600K averaged 21.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i5-13600K near the top of the comparison list. Avg. Quad Core Speed 854Pts Avg. Multi Core Speed 2,452Pts",
+    "url": "https://gpu.userbenchmark.com/Nvidia-RTX-3080-Ti/Rating/4115"
+  },
+  {
+    "id": "6",
+    "rank": "#6",
+    "brand": "Intel",
+    "model": "Core i5-13600KF",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i5-13600KF averaged 21.5% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i5-13600KF near the top of the comparison list. Avg. Quad Core Speed 851Pts Avg. Multi Core Speed 2,442Pts",
+    "url": "https://cpu.userbenchmark.com/SpeedTest/1950757/13th-Gen-IntelR-CoreTM-i5-13600KF"
+  },
+  {
+    "id": "7",
+    "rank": "#7",
+    "brand": "Intel",
+    "model": "Core i9-12900KS",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i9-12900KS averaged 17.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i9-12900KS near the top of the comparison list. Avg. Multi Core Speed 2,869Pts Avg. Quad Core Speed 825Pts",
+    "url": "https://cpu.userbenchmark.com/SpeedTest/1821519/12th-Gen-IntelR-CoreTM-i9-12900KS"
+  },
+  {
+    "id": "8",
+    "rank": "#8",
+    "brand": "Intel",
+    "model": "Core i9-12900KF",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i9-12900KF averaged 16.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i9-12900KF near the top of the comparison list. Avg. Multi Core Speed 2,798Pts Avg. Quad Core Speed 808Pts",
+    "url": "https://cpu.userbenchmark.com/SpeedTest/1685583/12th-Gen-IntelR-CoreTM-i9-12900KF"
+  },
+  {
+    "id": "9",
+    "rank": "#9",
+    "brand": "Intel",
+    "model": "Core i9-12900K",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel Core i9-12900K averaged 16.5% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel Core i9-12900K near the top of the comparison list. Avg. Multi Core Speed 2,811Pts Avg. Quad Core Speed 810Pts",
+    "url": "https://cpu.userbenchmark.com/Intel-Core-i9-12900K/Rating/4118"
+  },
+  {
+    "id": "10",
+    "rank": "#10",
+    "brand": "AMD",
+    "model": "Ryzen 9 7950X",
+    "img": "https://vectorseek.com/wp-content/uploads/2022/01/AMD-Ryzen-Logo-Vector.jpg",
+    "detail": "The AMD Ryzen 9 7950X averaged 14.2% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the AMD Ryzen 9 7950X near the top of the comparison list. Avg. Multi Core Speed 3,555Pts Avg. Quad Core Speed 791Pts",
+    "url": "https://cpu.userbenchmark.com/AMD-Ryzen-9-7950X/Rating/4133"
+  }
+]

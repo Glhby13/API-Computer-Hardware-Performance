@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "rank": "#1",
+    "brand": "WD",
+    "model": "Black SN850X NVMe PCIe M.2 4TB",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Black SN850X NVMe PCIe M.2 4TB averaged 443.9% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Black SN850X NVMe PCIe M.2 4TB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,577MB/s Avg. Sequential Write Speed 3,902MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/1919648/WD-BLACK-SN850X-4000GB"
+  },
+  {
+    "id": "2",
+    "rank": "#2",
+    "brand": "WD",
+    "model": "Black SN850X NVMe PCIe M.2 2TB",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Black SN850X NVMe PCIe M.2 2TB averaged 442.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Black SN850X NVMe PCIe M.2 2TB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,610MB/s Avg. Sequential Write Speed 4,073MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/1907297/WD-BLACK-SN850X-2000GB"
+  },
+  {
+    "id": "3",
+    "rank": "#3",
+    "brand": "WD",
+    "model": "Black SN850 NVMe PCIe M.2 2TB",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Black SN850 NVMe PCIe M.2 2TB averaged 396.8% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Black SN850 NVMe PCIe M.2 2TB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,500MB/s Avg. Sequential Write Speed 3,829MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/1363185/WD-BLACK-SN850-2TB"
+  },
+  {
+    "id": "4",
+    "rank": "#4",
+    "brand": "WD",
+    "model": "Black SN850X NVMe PCIe M.2 1TB",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Black SN850X NVMe PCIe M.2 1TB averaged 355.0% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Black SN850X NVMe PCIe M.2 1TB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,464MB/s Avg. Sequential Write Speed 3,715MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/1913746/WD-BLACK-SN850X-1000GBB"
+  },
+  {
+    "id": "5",
+    "rank": "#5",
+    "brand": "Crucial",
+    "model": "P5 Plus NVMe PCIe M.2 2TB",
+    "img": "https://ih1.redbubble.net/image.2557380396.6159/pp,840x830-pad,1000x1000,f8f8f8.jpg",
+    "detail": "The Crucial P5 Plus NVMe PCIe M.2 2TB averaged 340.7% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Crucial P5 Plus NVMe PCIe M.2 2TB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,196MB/s Avg. Sequential Write Speed 3,038MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/1638983/CT2000P5PSSD8"
+  },
+  {
+    "id": "6",
+    "rank": "#6",
+    "brand": "Intel",
+    "model": "900P Optane NVMe PCIe 280GB",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel 900P Optane NVMe PCIe 280GB averaged 340.0% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel 900P Optane NVMe PCIe 280GB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,124MB/s Avg. 4K Random Read Speed 215MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/315555/INTEL-SSDPED1D280GA"
+  },
+  {
+    "id": "7",
+    "rank": "#7",
+    "brand": "Samsung",
+    "model": "980 Pro NVMe PCIe M.2 2TB",
+    "img": "https://vectorseek.com/wp-content/uploads/2021/01/Samsung-Logo-Vector-scaled.jpg",
+    "detail": "The Samsung 980 Pro NVMe PCIe M.2 2TB averaged 332.5% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Samsung 980 Pro NVMe PCIe M.2 2TB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,352MB/s Avg. Sequential Write Speed 2,927MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/1454302/Samsung-SSD-980-PRO-2TB"
+  },
+  {
+    "id": "8",
+    "rank": "#8",
+    "brand": "Intel",
+    "model": "905P Optane NVMe PCIe 960GB",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel 905P Optane NVMe PCIe 960GB averaged 329.3% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel 905P Optane NVMe PCIe 960GB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,010MB/s Avg. 4K Random Read Speed 203MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/498903/INTEL-SSDPED1D960GAY"
+  },
+  {
+    "id": "9",
+    "rank": "#9",
+    "brand": "Intel",
+    "model": "900P Optane NVMe PCIe 480GB",
+    "img": "https://wallpaperaccess.com/full/4979758.jpg",
+    "detail": "The Intel 900P Optane NVMe PCIe 480GB averaged 329.3% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Intel 900P Optane NVMe PCIe 480GB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,051MB/s Avg. 4K Random Read Speed 209MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/375784/INTEL-SSDPED1D480GA"
+  },
+  {
+    "id": "10",
+    "rank": "#10",
+    "brand": "WD",
+    "model": "Black SN850 NVMe PCIe M.2 1TB",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Black SN850 NVMe PCIe M.2 1TB averaged 325.9% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Black SN850 NVMe PCIe M.2 1TB near the top of the comparison list. Avg. 4K-64Thread Mixed IO Speed 1,392MB/s Avg. Sequential Write Speed 3,617MB/s",
+    "url": "https://ssd.userbenchmark.com/SpeedTest/1348947/WD-BLACK-SN850-1TB"
+  }
+]

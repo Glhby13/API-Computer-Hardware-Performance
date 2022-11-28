@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "rank": "#1",
+    "brand": "Nvidia",
+    "model": "RTX 4090",
+    "img": "https://rare-gallery.com/thumbnail/36934-Nvidia-HD-Wallpaper.png",
+    "detail": "The Nvidia RTX 4090 averaged 326.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia RTX 4090 near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 524fps Avg. NBody particle system (Galaxy) 541fps",
+    "url": "https://gpu.userbenchmark.com/Nvidia-RTX-4090/Rating/4136"
+  },
+  {
+    "id": "2",
+    "rank": "#2",
+    "brand": "Nvidia",
+    "model": "RTX 4080",
+    "img": "https://rare-gallery.com/thumbnail/36934-Nvidia-HD-Wallpaper.png",
+    "detail": "The Nvidia RTX 4080 averaged 232.4% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia RTX 4080 near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 429fps Avg. NBody particle system (Galaxy) 365fps",
+    "url": "https://gpu.userbenchmark.com/Nvidia-RTX-4080/Rating/4138"
+  },
+  {
+    "id": "3",
+    "rank": "#3",
+    "brand": "Nvidia",
+    "model": "RTX 3090-Ti",
+    "img": "https://rare-gallery.com/thumbnail/36934-Nvidia-HD-Wallpaper.png",
+    "detail": "The Nvidia RTX 3090-Ti averaged 166.2% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia RTX 3090-Ti near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 341fps Avg. NBody particle system (Galaxy) 307fps",
+    "url": "https://gpu.userbenchmark.com/SpeedTest/1818101/NVIDIA-GeForce-RTX-3090-Ti"
+  },
+  {
+    "id": "4",
+    "rank": "#4",
+    "brand": "Nvidia",
+    "model": "RTX 3090",
+    "img": "https://rare-gallery.com/thumbnail/36934-Nvidia-HD-Wallpaper.png",
+    "detail": "The Nvidia RTX 3090 averaged 132.7% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia RTX 3090 near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 307fps Avg. NBody particle system (Galaxy) 252fps",
+    "url": "https://gpu.userbenchmark.com/Nvidia-RTX-3090/Rating/4081"
+  },
+  {
+    "id": "5",
+    "rank": "#5",
+    "brand": "Nvidia",
+    "model": "RTX 3080-Ti",
+    "img": "https://rare-gallery.com/thumbnail/36934-Nvidia-HD-Wallpaper.png",
+    "detail": "The Nvidia RTX 3080-Ti averaged 130.2% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia RTX 3080-Ti near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 302fps Avg. NBody particle system (Galaxy) 251fps",
+    "url": "https://gpu.userbenchmark.com/Nvidia-RTX-3080-Ti/Rating/4115"
+  },
+  {
+    "id": "6",
+    "rank": "#6",
+    "brand": "Nvidia",
+    "model": "Quadro RTX A6000",
+    "img": "https://rare-gallery.com/thumbnail/36934-Nvidia-HD-Wallpaper.png",
+    "detail": "The Nvidia Quadro RTX A6000 averaged 106.5% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia Quadro RTX A6000 near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 246fps Avg. NBody particle system (Galaxy) 262fps",
+    "url": "https://gpu.userbenchmark.com/SpeedTest/1300600/NVIDIA-Quadro-RTX-A6000"
+  },
+  {
+    "id": "7",
+    "rank": "#7",
+    "brand": "Nvidia",
+    "model": "RTX 3080",
+    "img": "https://rare-gallery.com/thumbnail/36934-Nvidia-HD-Wallpaper.png",
+    "detail": "The Nvidia RTX 3080 averaged 105.7% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia RTX 3080 near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 268fps Avg. NBody particle system (Galaxy) 228fps",
+    "url": "https://gpu.userbenchmark.com/Nvidia-RTX-3080/Rating/4080"
+  },
+  {
+    "id": "8",
+    "rank": "#8",
+    "brand": "Nvidia",
+    "model": "Titan RTX",
+    "img": "https://rare-gallery.com/thumbnail/36934-Nvidia-HD-Wallpaper.png",
+    "detail": "The Nvidia Titan RTX averaged 89.0% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Nvidia Titan RTX near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 224fps Avg. NBody particle system (Galaxy) 240fps",
+    "url": "https://gpu.userbenchmark.com/SpeedTest/664199/NVIDIA-TITAN-RTX"
+  },
+  {
+    "id": "9",
+    "rank": "#9",
+    "brand": "AMD",
+    "model": "RX 6950-XT",
+    "img": "https://wallpaperaccess.com/full/656439.jpg",
+    "detail": "The AMD RX 6950-XT averaged 86.2% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the AMD RX 6950-XT near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 227fps Avg. NBody particle system (Galaxy) 210fps",
+    "url": "https://gpu.userbenchmark.com/SpeedTest/1843533/AMD-Radeon-RX-6950-XT"
+  },
+  {
+    "id": "10",
+    "rank": "#10",
+    "brand": "AMD",
+    "model": "RX 6900-XT",
+    "img": "https://wallpaperaccess.com/full/656439.jpg",
+    "detail": "The AMD RX 6900-XT averaged 83.7% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the AMD RX 6900-XT near the top of the comparison list. Avg. Locally-deformable PRT (Bat) 227fps Avg. NBody particle system (Galaxy) 202fps",
+    "url": "https://gpu.userbenchmark.com/AMD-RX-6900-XT/Rating/4091"
+  }
+]

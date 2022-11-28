@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "rank": "#1",
+    "brand": "G.SKILL",
+    "model": "Ripjaws 4 DDR4 2400 C14 8x16GB",
+    "img": "https://www.techpowerup.com/review/g-skill-enki-360-aio-cpu-closed-loop-liquid-cooler/images/rgb1.jpg",
+    "detail": "The G.SKILL Ripjaws 4 DDR4 2400 C14 8x16GB averaged 21.4% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the G.SKILL Ripjaws 4 DDR4 2400 C14 8x16GB near the top of the comparison list. Avg. 16 Core Write Bench 50.1GB/s Avg. 16 Core Read Bench 48.6GB/s",
+    "url": "https://ram.userbenchmark.com/GSKILL-Ripjaws-4-DDR4-2400-C14-8x16GB/Rating/3567"
+  },
+  {
+    "id": "2",
+    "rank": "#2",
+    "brand": "G.SKILL",
+    "model": "Trident Z DDR4 3200 C14 4x16GB",
+    "img": "https://www.techpowerup.com/review/g-skill-enki-360-aio-cpu-closed-loop-liquid-cooler/images/rgb1.jpg",
+    "detail": "The G.SKILL Trident Z DDR4 3200 C14 4x16GB averaged 15.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the G.SKILL Trident Z DDR4 3200 C14 4x16GB near the top of the comparison list. Avg. 16 Core Write Bench 47.2GB/s Avg. 16 Core Read Bench 44.5GB/s",
+    "url": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3200-C14-4x16GB/Rating/3612"
+  },
+  {
+    "id": "3",
+    "rank": "#3",
+    "brand": "Crucial",
+    "model": "Ballistix Sport DDR4 2400 C16 8x4GB",
+    "img": "https://ih1.redbubble.net/image.2557380396.6159/pp,840x830-pad,1000x1000,f8f8f8.jpg",
+    "detail": "The Crucial Ballistix Sport DDR4 2400 C16 8x4GB averaged 10.0% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Crucial Ballistix Sport DDR4 2400 C16 8x4GB near the top of the comparison list. Avg. 16 Core Write Bench 43.1GB/s Avg. 16 Core Read Bench 43.1GB/s",
+    "url": "https://ram.userbenchmark.com/SpeedTest/93395/Crucial-BLS4G4D240FSAM8FAD-8x4GB"
+  },
+  {
+    "id": "4",
+    "rank": "#4",
+    "brand": "Crucial",
+    "model": "Ballistix Elite DDR4 3600 C16 4x8GB",
+    "img": "https://ih1.redbubble.net/image.2557380396.6159/pp,840x830-pad,1000x1000,f8f8f8.jpg",
+    "detail": "The Crucial Ballistix Elite DDR4 3600 C16 4x8GB averaged 8.1% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Crucial Ballistix Elite DDR4 3600 C16 4x8GB near the top of the comparison list. Avg. 16 Core Read Bench 45.1GB/s Avg. 16 Core Mixed IO Bench 39.1GB/s",
+    "url": "https://ram.userbenchmark.com/SpeedTest/811381/Crucial-BLE8G4D36BEEAKM8FE1-4x8GB"
+  },
+  {
+    "id": "5",
+    "rank": "#5",
+    "brand": "G.SKILL",
+    "model": "Flare X DDR4 3200 C14 4x8GB",
+    "img": "https://www.techpowerup.com/review/g-skill-enki-360-aio-cpu-closed-loop-liquid-cooler/images/rgb1.jpg",
+    "detail": "The G.SKILL Flare X DDR4 3200 C14 4x8GB averaged 6.2% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the G.SKILL Flare X DDR4 3200 C14 4x8GB near the top of the comparison list. Avg. 16 Core Read Bench 45.5GB/s Avg. 16 Core Mixed IO Bench 37.9GB/",
+    "url": "https://ram.userbenchmark.com/SpeedTest/270794/GSKILL-F4-3200C14-8GFX-4x8GB"
+  },
+  {
+    "id": "6",
+    "rank": "#6",
+    "brand": "G.SKILL",
+    "model": "Trident Z DDR4 3200 C15 4x16GB",
+    "img": "https://www.techpowerup.com/review/g-skill-enki-360-aio-cpu-closed-loop-liquid-cooler/images/rgb1.jpg",
+    "detail": "The G.SKILL Trident Z DDR4 3200 C15 4x16GB averaged 3.5% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the G.SKILL Trident Z DDR4 3200 C15 4x16GB near the top of the comparison list. Avg. 16 Core Write Bench 41.8GB/s Avg. 16 Core Read Bench 38.5GB/s",
+    "url": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3200-C15-4x16GB/Rating/3613"
+  },
+  {
+    "id": "7",
+    "rank": "#7",
+    "brand": "Corsair",
+    "model": "Dominator DDR4 3000 C15 4x16GB",
+    "img": "https://wallpapercave.com/wp/wp7790754.jpg",
+    "detail": "The Corsair Dominator DDR4 3000 C15 4x16GB averaged just 0.7% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the Corsair Dominator DDR4 3000 C15 4x16GB near the top of the comparison list. Avg. 16 Core Write Bench 39.8GB/s Avg. 16 Core Read Bench 37.6GB/s",
+    "url": "https://ram.userbenchmark.com/Corsair-Dominator-DDR4-3000-C15-4x16GB/Rating/3565"
+  },
+  {
+    "id": "8",
+    "rank": "#8",
+    "brand": "G.SKILL",
+    "model": "Trident Z DDR4 3600 C16 2x8GB",
+    "img": "https://www.techpowerup.com/review/g-skill-enki-360-aio-cpu-closed-loop-liquid-cooler/images/rgb1.jpg",
+    "detail": "The G.SKILL Trident Z DDR4 3600 C16 2x8GB averaged just 2.1% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the G.SKILL Trident Z DDR4 3600 C16 2x8GB near the top of the comparison list. Avg. 16 Core Read Bench 39.1GB/s Avg. 16 Core Write Bench 33.6GB/s",
+    "url": "https://ram.userbenchmark.com/GSKILL-Trident-Z-DDR4-3600-C16-2x8GB/Rating/3562"
+  },
+  {
+    "id": "9",
+    "rank": "#9",
+    "brand": "G.SKILL",
+    "model": "Flare X DDR4 3200 C14 2x8GB",
+    "img": "https://www.techpowerup.com/review/g-skill-enki-360-aio-cpu-closed-loop-liquid-cooler/images/rgb1.jpg",
+    "detail": "The G.SKILL Flare X DDR4 3200 C14 2x8GB averaged just 2.2% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the G.SKILL Flare X DDR4 3200 C14 2x8GB near the top of the comparison list. Avg. 16 Core Read Bench 40.7GB/s Avg. 16 Core Mixed IO Bench 33.6GB/s",
+    "url": "https://ram.userbenchmark.com/SpeedTest/255366/GSKILL-F4-3200C14-8GFX-2x8GB"
+  },
+  {
+    "id": "10",
+    "rank": "#10",
+    "brand": "Crucial",
+    "model": "Ballistix Sport DDR4 2400 C16 4x4GB",
+    "img": "https://ih1.redbubble.net/image.2557380396.6159/pp,840x830-pad,1000x1000,f8f8f8.jpg",
+    "detail": "The Crucial Ballistix Sport DDR4 2400 C16 4x4GB averaged just 2.6% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the Crucial Ballistix Sport DDR4 2400 C16 4x4GB near the top of the comparison list. Avg. 16 Core Write Bench 39.2GB/s Avg. 16 Core Read Bench 37.9GB/s",
+    "url": "https://ram.userbenchmark.com/Crucial-Ballistix-Sport-DDR4-2400-C16-4x4GB/Rating/3561"
+  }
+]

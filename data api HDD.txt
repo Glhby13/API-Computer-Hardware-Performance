@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "rank": "#1",
+    "brand": "WD",
+    "model": "Gold 12TB (2017)",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Gold 12TB (2017) averaged 12.7% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Gold 12TB (2017) near the top of the comparison list. Avg. 4K Random Mixed IO Speed 1.28MB/s Avg. 4K Random Write Speed 5.22MB/s",
+    "url": "https://hdd.userbenchmark.com/SpeedTest/391336/WDC-WD121KRYZ-01"
+  },
+  {
+    "id": "2",
+    "rank": "#2",
+    "brand": "WD",
+    "model": "Gold 10TB (2016)",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Gold 10TB (2016) averaged 7.3% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Gold 10TB (2016) near the top of the comparison list. Avg. 4K Random Mixed IO Speed 1.22MB/s Avg. 4K Random Write Speed 5.59MB/s",
+    "url": "https://hdd.userbenchmark.com/SpeedTest/171115/WDC-WD101KRYZ-01JPDB0"
+  },
+  {
+    "id": "3",
+    "rank": "#3",
+    "brand": "WD",
+    "model": "Gold 6TB (2016)",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Gold 6TB (2016) averaged 0.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Gold 6TB (2016) near the top of the comparison list. Avg. 4K Random Write Speed 5.1MB/s Avg. 4K Random Mixed IO Speed 0.71MB/s",
+    "url": "https://hdd.userbenchmark.com/SpeedTest/167511/WDC-WD6002FRYZ-01WD5"
+  },
+  {
+    "id": "4",
+    "rank": "#4",
+    "brand": "WD",
+    "model": "Gold 8TB (256MB Cache 2017)",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Gold 8TB (256MB Cache 2017) averaged 0.4% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Gold 8TB (256MB Cache 2017) near the top of the comparison list. Avg. 4K Random Mixed IO Speed 1.23MB/s Avg. 4K Random Write Speed 5.61MB/s",
+    "url": "https://hdd.userbenchmark.com/SpeedTest/388081/WDC-WD8003FRYZ-01JPDB1"
+  },
+  {
+    "id": "5",
+    "rank": "#5",
+    "brand": "WD",
+    "model": "Red Pro 6TB (2015)",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Red Pro 6TB (2015) averaged just 0.2% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Red Pro 6TB (2015) near the top of the comparison list. Avg. 4K Random Write Speed 4.8MB/s Avg. 4K Random Mixed IO Speed 0.72MB/s",
+    "url": "https://hdd.userbenchmark.com/SpeedTest/139230/WDC-WD6002FFWX-68TZ4N0"
+  },
+  {
+    "id": "6",
+    "rank": "#6",
+    "brand": "WD",
+    "model": "Black 6TB (2016)",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Black 6TB (2016) averaged just 2.1% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Black 6TB (2016) near the top of the comparison list. Avg. 4K Random Write Speed 4.82MB/s Avg. 4K Random Mixed IO Speed 0.7MB/s",
+    "url": "https://hdd.userbenchmark.com/WD-Black-6TB-2016/Rating/3927"
+  },
+  {
+    "id": "7",
+    "rank": "#7",
+    "brand": "HGST",
+    "model": "Deskstar NAS 6TB",
+    "img": "https://www.ineltro.eu/wp-content/uploads/2017/06/hgst-logo.jpg",
+    "detail": "The HGST Deskstar NAS 6TB averaged just 5.1% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the HGST Deskstar NAS 6TB near the top of the comparison list. Avg. 4K Random Mixed IO Speed 0.63MB/s Avg. 4K Random Write Speed 2.75MB/s",
+    "url": "https://hdd.userbenchmark.com/SpeedTest/22222/HGST-HDN726060ALE610"
+  },
+  {
+    "id": "8",
+    "rank": "#8",
+    "brand": "WD",
+    "model": "9Gold 8TB (128MB Cache 2016)",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD Gold 8TB (128MB Cache 2016) averaged just 5.1% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the WD Gold 8TB (128MB Cache 2016) near the top of the comparison list. Avg. 4K Random Mixed IO Speed 0.69MB/s Avg. 4K Random Write Speed 4.08MB/s",
+    "url": "https://hdd.userbenchmark.com/SpeedTest/226349/WDC-WD8002FRYZ-01FF2B0"
+  },
+  {
+    "id": "9",
+    "rank": "#9",
+    "brand": "WD",
+    "model": "VelociRaptor 1TBB",
+    "img": "https://s3-symbol-logo.tradingview.com/western-digital--600.png",
+    "detail": "The WD VelociRaptor 1TB averaged just 5.4% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the WD VelociRaptor 1TB near the top of the comparison list. Avg. 4K Random Mixed IO Speed 1.58MB/s Avg. 4K Random Write Speed 4.2MB/s",
+    "url": "https://hdd.userbenchmark.com/WD-VelociRaptor-1TB/Rating/1389"
+  },
+  {
+    "id": "10",
+    "rank": "#10",
+    "brand": "Seagate",
+    "model": "Constellation CS 3TB",
+    "img": "https://vectorseek.com/wp-content/uploads/2021/01/Seagate-Logo-Vector-730x730.jpg",
+    "detail": "The Seagate Constellation CS 3TB averaged just 6.0% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the Seagate Constellation CS 3TB near the top of the comparison list. Avg. 4K Random Mixed IO Speed 0.77MB/s Avg. Sequential Read Speed 167MB/s",
+    "url": "https://hdd.userbenchmark.com/SpeedTest/5929/ST3000NC002-1DY166"
+  }
+]

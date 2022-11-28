@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "rank": "#1",
+    "brand": "Mushkin",
+    "model": "Ventura Ultra USB 3.0 240GB",
+    "img": "https://content.etilize.com/rich-marketing/en_us/1062485611/RdG3NjkTeaSE47UFQfYA_yhch5qYP9dYKoYY",
+    "detail": "The Mushkin Ventura Ultra USB 3.0 240GB averaged 51.1% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Mushkin Ventura Ultra USB 3.0 240GB near the top of the comparison list. Avg. 4K-64Thread Write Speed 56.3MB/s Avg. 4K Random Write Speed 34MB/s",
+    "url": "https://usb.userbenchmark.com/SpeedTest/7528/Mushkin-Ventura-Ultra"
+  },
+  {
+    "id": "2",
+    "rank": "#2",
+    "brand": "Mushkin",
+    "model": "Ventura Ultra USB 3.0 60GB",
+    "img": "https://content.etilize.com/rich-marketing/en_us/1062485611/RdG3NjkTeaSE47UFQfYA_yhch5qYP9dYKoYY",
+    "detail": "The Mushkin Ventura Ultra USB 3.0 60GB averaged 42.6% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Mushkin Ventura Ultra USB 3.0 60GB near the top of the comparison list. Avg. 4K-64Thread Write Speed 43.4MB/s Avg. 4K Random Write Speed 34MB/s",
+    "url": "https://usb.userbenchmark.com/Mushkin-Ventura-Ultra-USB-30-60GB/Rating/2281"
+  },
+  {
+    "id": "3",
+    "rank": "#3",
+    "brand": "Mushkin",
+    "model": "Ventura Ultra USB 3.0 120GB",
+    "img": "https://content.etilize.com/rich-marketing/en_us/1062485611/RdG3NjkTeaSE47UFQfYA_yhch5qYP9dYKoYY",
+    "detail": "The Mushkin Ventura Ultra USB 3.0 120GB averaged 40.1% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Mushkin Ventura Ultra USB 3.0 120GB near the top of the comparison list. Avg. 4K-64Thread Write Speed 46.7MB/s Avg. 4K Random Write Speed 31MB/s",
+    "url": "https://usb.userbenchmark.com/SpeedTest/8396/Mushkin-Ventura-Ultra"
+  },
+  {
+    "id": "4",
+    "rank": "#4",
+    "brand": "Corsair",
+    "model": "Flash Voyager GTX USB 3.0 256GB",
+    "img": "https://modguru.net/wp-content/uploads/2015/01/Corsair-logo.jpg",
+    "detail": "The Corsair Flash Voyager GTX USB 3.0 256GB averaged 14.3% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Corsair Flash Voyager GTX USB 3.0 256GB near the top of the comparison list. Avg. 4K-64Thread Write Speed 25.2MB/s Avg. 4K Random Write Speed 17.7MB/s",
+    "url": "https://usb.userbenchmark.com/SpeedTest/12583/Corsair-Voyager-GTX"
+  },
+  {
+    "id": "5",
+    "rank": "#5",
+    "brand": "Corsair",
+    "model": "Flash Voyager GTX USB 3.0 128GB",
+    "img": "https://modguru.net/wp-content/uploads/2015/01/Corsair-logo.jpg",
+    "detail": "The Corsair Flash Voyager GTX USB 3.0 128GB averaged 13.7% higher than the peak scores attained by the group leaders. This is an excellent result which ranks the Corsair Flash Voyager GTX USB 3.0 128GB near the top of the comparison list. Avg. 4K-64Thread Write Speed 26.6MB/s Avg. 4K Random Write Speed 18.9MB/s",
+    "url": "https://usb.userbenchmark.com/SpeedTest/13691/Corsair-Voyager-GTX"
+  },
+  {
+    "id": "6",
+    "rank": "#6",
+    "brand": "SanDisk",
+    "model": "Extreme Pro USB 3.0 128GB",
+    "img": "https://vectorseek.com/wp-content/uploads/2022/02/Sandisk-Logo-Vector.jpg",
+    "detail": "The SanDisk Extreme Pro USB 3.0 128GB averaged just 18.6% lower than the peak scores attained by the group leaders. This is an excellent result which ranks the SanDisk Extreme Pro USB 3.0 128GB near the top of the comparison list. Avg. 4K-64Thread Write Speed 12MB/s Avg. 4K-64Thread Mixed IO Speed 9.39MB/s",
+    "url": "https://usb.userbenchmark.com/SpeedTest/7603/SanDisk-ExtremePro"
+  },
+  {
+    "id": "7",
+    "rank": "#7",
+    "brand": "SanDisk",
+    "model": "Extreme USB 3.0 64GB",
+    "img": "https://vectorseek.com/wp-content/uploads/2022/02/Sandisk-Logo-Vector.jpg",
+    "detail": "The SanDisk Extreme USB 3.0 64GB averaged 26.0% lower than the peak scores attained by the group leaders. This isn't a great result which indicates that there are much faster alternatives on the comparison list. Avg. 4K-64Thread Write Speed 10.6MB/s Avg. 4K-64Thread Mixed IO Speed 8.73MB/s",
+    "url": "https://usb.userbenchmark.com/SanDisk-Extreme-USB-30-64GB/Rating/1459"
+  },
+  {
+    "id": "8",
+    "rank": "#8",
+    "brand": "Samsung",
+    "model": "FIT USB 3.0 64GB",
+    "img": "https://vectorseek.com/wp-content/uploads/2021/01/Samsung-Logo-Vector-scaled.jpg",
+    "detail": "The Samsung FIT USB 3.0 64GB averaged 31.0% lower than the peak scores attained by the group leaders. This isn't a great result which indicates that there are much faster alternatives on the comparison list. Avg. 4K 64Thread Write Speed 16.9MB/s Avg. 4K Random Write Speed 11.6MB/s",
+    "url": "https://usb.userbenchmark.com/SpeedTest/36937/Samsung-Flash-Drive-FIT"
+  },
+  {
+    "id": "9",
+    "rank": "#9",
+    "brand": "SanDisk",
+    "model": "Extreme USB 3.0 32GB",
+    "img": "https://vectorseek.com/wp-content/uploads/2022/02/Sandisk-Logo-Vector.jpg",
+    "detail": "The SanDisk Extreme USB 3.0 32GB averaged 35.5% lower than the peak scores attained by the group leaders. This isn't a great result which indicates that there are much faster alternatives on the comparison list. Avg. 4K-64Thread Write Speed 10.8MB/s Avg. 4K-64Thread Mixed IO Speed 8.92MB/s ",
+    "url": "https://usb.userbenchmark.com/SanDisk-Extreme-USB-30-32GB/Rating/1466"
+  },
+  {
+    "id": "10",
+    "rank": "#10",
+    "brand": "Drobo",
+    "model": "Mini 4.5TB",
+    "img": "http://www.drobo-jp.com/images/home/header-logo-sp.png",
+    "detail": "The Drobo Mini 4.5TB averaged 36.7% lower than the peak scores attained by the group leaders. This isn't a great result which indicates that there are much faster alternatives on the comparison list. Avg. 4K Random Write Speed 4.89MB/s Avg. Sustained Write Speed 194MB/s",
+    "url": "https://usb.userbenchmark.com/SpeedTest/2759/Drobo-Mini"
+  }
+]
